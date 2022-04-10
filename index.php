@@ -52,7 +52,7 @@
                 <h1 class="main-title" data-aos="fade-up" data-aos-duration="1200" data-aos-once="true"
                     data-text="Chubb Club">The Zombiez NFT</h1><span class="subtitle" data-aos="fade-up"
                                                                data-aos-duration="1250" data-aos-once="true">
-                    Meta Jurassic era is coming, time to get your egg<br>
+                    Zombiez era is coming, time to get your Zombiez<br>
                      and hatch for your most powerful pet!!</span>
                 <div class="info" data-aos="fade-up" data-aos-duration="1300" data-aos-once="true">
                     <div class="info__wrap">
@@ -70,17 +70,17 @@
                             <div class="col-md-6">
                                 <h2 class="section-title" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">The Zombiez NFT</h2>
                                 <p class="sub-text" data-aos="fade-up" data-aos-duration="1100" data-aos-once="true">
-                                    Your access pass to Meta Jurassic!</br>
-                                    Only 5,000 will ever be created!
+                                    Your access pass to Zombie World!</br>
+                                    Only 10,000 will ever be created!
                                 </p>
                             </div>
                             <div class="col-md-6">
                                 <ul class="info-list" data-aos="fade-up" data-aos-duration="1200" data-aos-once="true"
                                     style="color: black">
-                                    <li>Every Zombiez  will be born from Zombiez  eggs and it will accompany with you forever!</li>
-                                    <li>In future, you can hatch them, feed them, play with them!</li>
+                                    <li>You can win the Zombiez by playing the Board Game Monoster</li>
+                                    <li>In future, feed them, play with them!</li>
                                     <li>
-                                        For every Zombiez  holder, you can explore Meta Jurassic Park in the metaverse!
+                                        For every Zombiez  holder, you can explore Zombie World in the metaverse!
                                     </li>
                                 </ul>
                             </div>
@@ -102,7 +102,7 @@
                                         <div class="card__img-wrap">
                                             <div class="card__img"><img src="images/o01.png" alt=""></div>
                                         </div>
-                                        <button class="card__link btn secondary" type="button" style="font-size: 12px;">Charles - Mastermind</button>
+                                        <button class="card__link btn secondary" type="button" style="font-size: 12px;">Kenneth - MasterMind</button>
                                     </div>
                                 </div>
                             </div>
@@ -112,7 +112,7 @@
                                         <div class="card__img-wrap">
                                             <div class="card__img"><img src="images/o11.png" alt=""></div>
                                         </div>
-                                        <button class="card__link btn secondary" type="button" style="font-size: 12px;">Anna - Marketing &nbsp Head</button>
+                                        <button class="card__link btn secondary" type="button" style="font-size: 12px;">Lynn - Marketing &nbsp Head</button>
                                     </div>
                                 </div>
                             </div>
@@ -122,7 +122,7 @@
                                         <div class="card__img-wrap">
                                             <div class="card__img"><img src="images/o31.png" alt=""></div>
                                         </div>
-                                        <button class="card__link btn secondary" type="button" style="font-size: 12px;">Jessica - Art Director</button>
+                                        <button class="card__link btn secondary" type="button" style="font-size: 12px;">Byron - Art Director</button>
                                     </div>
                                 </div>
                             </div>
@@ -132,7 +132,7 @@
                                         <div class="card__img-wrap">
                                             <div class="card__img"><img src="images/o21.png" alt=""></div>
                                         </div>
-                                        <button class="card__link btn secondary" type="button" style="font-size: 12px;">Franky - CTO</button>
+                                        <button class="card__link btn secondary" type="button" style="font-size: 12px;">Sean - CTO</button>
                                     </div>
                                 </div>
                             </div>
@@ -150,9 +150,9 @@
                                 <h2 class="section-title" data-aos="fade-up" data-aos-duration="1100" data-aos-once="true">//
                                     The story</h2>
                                 <p class="map-desc scroll scroll-wrap" style="text-align: justify" data-aos="fade-up" data-aos-duration="1200"
-                                   data-aos-once="true">We are the scientists who have been studying Zombiez  and the Jurassic
-                                    era for decades. We are proud to announce that we have successfully transferred them into
-                                    Web 3 and Metaverse! Prepare to get yours and hatch it! More Detail and info will be
+                                   data-aos-once="true">We are the gamers who have been studying Zombiez  and the Zombie World
+                                    for decades. We are proud to announce that we have successfully transferred them into
+                                    Web 3 and Metaverse! Prepare to get yours! More Detail and info will be
                                     released accordingly.</p>
                             </div>
                             <div class="item__img">
@@ -201,7 +201,7 @@
                                 <h2 class="item__title section-title" data-aos="fade-up" data-aos-duration="1100"
                                     data-aos-once="true">Traits and Rarity:</h2>
                                 <p class="item__text" data-aos="fade-up" data-aos-duration="1200" data-aos-once="true">
-                                    The The Zombiez NFT has lots unique attributes with the possibility of creating over a 5,000 different combinations with different rarity.</p>
+                                    The Zombiez NFT has lots unique attributes with the possibility of creating over a 5,000 different combinations with different rarity.</p>
                                 <a class="btn primary"
                                    href="#"
                                    target="_blank" data-aos="fade-up"
@@ -236,20 +236,19 @@
                            data-aos-once="true"></p>
                         <div class="map__item" data-aos="fade-up" data-aos-duration="1100" data-aos-once="true">
                             <span class="map__percent">Phase One - Minting take place</span>
-                            <p class="map-desc">Total 5,000 of Zombiez  available in Meta Jurassic era. You will start with an egg and after revealed it will turn into your unique bb Zombiez .</p>
+                            <p class="map-desc">Total 10,000 of Zombiez  available in Meta Jurassic era. You will start with an egg and after revealed it will turn into your unique bb Zombiez .</p>
                         </div>
                         <div class="map__item" data-aos="fade-up" data-aos-duration="1200" data-aos-once="true">
                             <span class="map__percent">Phase Two - Game</span>
-                            <p class="map-desc">We don’t stop at the bb Zombiez stage, after you hatch you will then feed them with food and snacks to earn exp, you will also need to take care of the environment such as cleaning up the poo or your bb Zombiez  will get sick.
-                                We also have some mini-games(mobile compatible) that you could play with your bb Zombiez  to earn exp.
-                                <br>Once your bb Zombiez  earns enough exp you can have him evolve into a Juvie Zombiez  and adult Zombiez .</p>
+                            <p class="map-desc">Zombie World is a card-based tabletop roleplaying game about survivors caught up in the aftermath of a zombie apocalypse, fighting against the living and the restless dead. The game is designed for easy, quick, and intense play, featuring more than 100 unique cards, multiple playmats, and a dry erase marker.
+                               </p>
                         </div>
                     </div>
                     <div class="map-block map-block_fits">
                         <div class="map" style="margin-top: 105px">
                             <div class="map__item" data-aos="fade-up" data-aos-duration="1100" data-aos-once="true">
                                 <span class="map__percent">Phase Three - MetaVerse</span>
-                                <p class="map-desc"> The Zombiez  Metaverse will be opened to all holders, we will be using the Jurassic era as a background. Also, more utility will be available at this stage.</p>
+                                <p class="map-desc"> The Zombiez  Metaverse will be opened to all holders, we will be using the Zombie World era as a background. Also, more utility will be available at this stage.</p>
                             </div>
 
                             <div class="map__item" data-aos="fade-up" data-aos-duration="1200" data-aos-once="true">
