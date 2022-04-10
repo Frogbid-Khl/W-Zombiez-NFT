@@ -53,7 +53,7 @@
                     data-text="Chubb Club">The Zombiez NFT</h1><span class="subtitle" data-aos="fade-up"
                                                                data-aos-duration="1250" data-aos-once="true">
                     Zombiez era is coming, time to get your Zombiez<br>
-                     and hatch for your most powerful pet!!</span>
+                     and asked for your most powerful pet!!</span>
                 <div class="info" data-aos="fade-up" data-aos-duration="1300" data-aos-once="true">
                     <div class="info__wrap">
                         <p class="info__text">Minting Date TBC</p>
